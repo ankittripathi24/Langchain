@@ -1,0 +1,6 @@
+langchain==0.0.27
+python-dotenv==1.0.0
+python_dateutil==2.8.1
+Requests==2.31.0
+snscrape==0.7.0.20230622
+tweepy==4.14.0
